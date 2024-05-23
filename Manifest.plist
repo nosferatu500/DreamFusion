@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>models</key>
+	<array>
+		<dict>
+			<key>modelId</key>
+			<string>nosferatu500/DreamShaper-v8</string>
+			<key>modelKey</key>
+			<string>dreamShaper</string>
+			<key>modelVersion</key>
+			<string>DreamShaper v8</string>
+			<key>essential</key>
+			<true/>
+			<key>isInpaint</key>
+			<false/>
+			<key>isInstruct</key>
+			<false/>
+			<key>fileSize</key>
+			<integer>3560617430</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
